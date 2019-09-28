@@ -1,5 +1,9 @@
 # ChemicalElements
 
+
+
+The periodic table included in this gem is created with reference to [this wikipedia](https://en.wikipedia.org/wiki/Periodic_table)
+
 ## Installation
 
 Add this line to your application's Gemfile:
