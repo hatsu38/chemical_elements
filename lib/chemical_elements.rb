@@ -1,6 +1,8 @@
-require "chemical_elements/version"
+require 'chemical_elements/periodic_table'
 
+# Extend PeriodicTable Class
 module ChemicalElements
-  class Error < StandardError; end
-  # Your code goes here...
+  def self.included(model_class)
+    model_class.extend PeriodicTable
+  end
 end

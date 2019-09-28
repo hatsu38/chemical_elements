@@ -1,0 +1,590 @@
+1:
+  :name: Hydrogen
+  :symbol: H
+  :atomic_num: 1
+  :atomic_amount: 1.00798
+2:
+  :name: Helium
+  :symbol: He
+  :atomic_num: 2
+  :atomic_amount: 4.0026
+3:
+  :name: Lithium
+  :symbol: Li
+  :atomic_num: 3
+  :atomic_amount: 6.968
+4:
+  :name: Berylium
+  :symbol: Be
+  :atomic_num: 4
+  :atomic_amount: 9.01218
+5:
+  :name: Boron
+  :symbol: B
+  :atomic_num: 5
+  :atomic_amount: 10.814
+6:
+  :name: Carbon
+  :symbol: C
+  :atomic_num: 6
+  :atomic_amount: 12.0106
+7:
+  :name: Nitrogen
+  :symbol: N
+  :atomic_num: 7
+  :atomic_amount: 14.0069
+8:
+  :name: Oxygen
+  :symbol: O
+  :atomic_num: 8
+  :atomic_amount: 15.9994
+9:
+  :name: Fluorine
+  :symbol: F
+  :atomic_num: 9
+  :atomic_amount: 28.397
+10:
+  :name: Neon
+  :symbol: Ne
+  :atomic_num: 10
+  :atomic_amount: 20.1797
+11:
+  :name: Sodium
+  :symbol: Na
+  :atomic_num: 11
+  :atomic_amount: 22.9898
+12:
+  :name: Magnessium
+  :symbol: Mg
+  :atomic_num: 12
+  :atomic_amount: 24.306
+13:
+  :name: Aluminum
+  :symbol: Al
+  :atomic_num: 13
+  :atomic_amount: 26.9815
+14:
+  :name: Silicon
+  :symbol: Si
+  :atomic_num: 14
+  :atomic_amount: 28.085
+15:
+  :name: Phosphorus
+  :symbol: P
+  :atomic_num: 15
+  :atomic_amount: 30.9738
+16:
+  :name: Sulfur
+  :symbol: S
+  :atomic_num: 16
+  :atomic_amount: 32.068
+17:
+  :name: Chlorine
+  :symbol: Cl
+  :atomic_num: 17
+  :atomic_amount: 35.452
+18:
+  :name: Argon
+  :symbol: Ar
+  :atomic_num: 18
+  :atomic_amount: 39.948
+19:
+  :name: Postassium
+  :symbol: K
+  :atomic_num: 19
+  :atomic_amount: 39.0983
+20:
+  :name: Calcium
+  :symbol: Ca
+  :atomic_num: 20
+  :atomic_amount: 40.078
+21:
+  :name: Scandium
+  :symbol: Sc
+  :atomic_num: 21
+  :atomic_amount: 44.9559
+22:
+  :name: Titanium
+  :symbol: Ti
+  :atomic_num: 22
+  :atomic_amount: 47.867
+23:
+  :name: Vanadium
+  :symbol: V
+  :atomic_num: 23
+  :atomic_amount: 50.9415
+24:
+  :name: Chromium
+  :symbol: Cr
+  :atomic_num: 24
+  :atomic_amount: 51.9961
+25:
+  :name: Manganese
+  :symbol: Mn
+  :atomic_num: 25
+  :atomic_amount: 54.938
+26:
+  :name: Iron
+  :symbol: Fe
+  :atomic_num: 26
+  :atomic_amount: 55.845
+27:
+  :name: Cobalt
+  :symbol: Co
+  :atomic_num: 27
+  :atomic_amount: 58.9332
+28:
+  :name: Nickel
+  :symbol: Ni
+  :atomic_num: 28
+  :atomic_amount: 58.6934
+29:
+  :name: Copper
+  :symbol: Cu
+  :atomic_num: 29
+  :atomic_amount: 63.546
+30:
+  :name: Zinc
+  :symbol: Zn
+  :atomic_num: 30
+  :atomic_amount: 65.38
+31:
+  :name: Gallium
+  :symbol: Ga
+  :atomic_num: 31
+  :atomic_amount: 69.723
+32:
+  :name: Germanium
+  :symbol: Ge
+  :atomic_num: 32
+  :atomic_amount: 69.723
+33:
+  :name: Arsenic
+  :symbol: As
+  :atomic_num: 33
+  :atomic_amount: 74.9216
+34:
+  :name: Selenium
+  :symbol: Se
+  :atomic_num: 34
+  :atomic_amount: 78.971
+35:
+  :name: Bromine
+  :symbol: Br
+  :atomic_num: 35
+  :atomic_amount: 79.904
+36:
+  :name: Krypton
+  :symbol: Kr
+  :atomic_num: 36
+  :atomic_amount: 83.798
+37:
+  :name: Rubidium
+  :symbol: Rb
+  :atomic_num: 37
+  :atomic_amount: 85.4678
+38:
+  :name: Strontium
+  :symbol: Sr
+  :atomic_num: 38
+  :atomic_amount: 87.62
+39:
+  :name: Yttrium
+  :symbol: Y
+  :atomic_num: 39
+  :atomic_amount: 88.9058
+40:
+  :name: Zirconium
+  :symbol: Zr
+  :atomic_num: 40
+  :atomic_amount: 91.224
+41:
+  :name: Niobium
+  :symbol: Nb
+  :atomic_num: 41
+  :atomic_amount: 92.9064
+42:
+  :name: Molybdenum
+  :symbol: Mo
+  :atomic_num: 42
+  :atomic_amount: 95.95
+43:
+  :name: Technetium
+  :symbol: Tc
+  :atomic_num: 43
+  :atomic_amount: 99
+44:
+  :name: Ruthenium
+  :symbol: Ru
+  :atomic_num: 44
+  :atomic_amount: 101.07
+45:
+  :name: Rhodium
+  :symbol: Rh
+  :atomic_num: 45
+  :atomic_amount: 102.906
+46:
+  :name: Palladium
+  :symbol: Pd
+  :atomic_num: 46
+  :atomic_amount: 106.42
+47:
+  :name: Silver
+  :symbol: Ag
+  :atomic_num: 47
+  :atomic_amount: 107.868
+48:
+  :name: Cadmium
+  :symbol: Cd
+  :atomic_num: 48
+  :atomic_amount: 112.414
+49:
+  :name: Indium
+  :symbol: In
+  :atomic_num: 49
+  :atomic_amount: 114.818
+50:
+  :name: Tin
+  :symbol: Sn
+  :atomic_num: 50
+  :atomic_amount: 118.710
+51:
+  :name: Antimony
+  :symbol: Sb
+  :atomic_num: 51
+  :atomic_amount: 121.760
+52:
+  :name: Tellurium
+  :symbol: Te
+  :atomic_num: 52
+  :atomic_amount: 127.60
+53:
+  :name: Iodine
+  :symbol: I
+  :atomic_num: 53
+  :atomic_amount: 126.904
+54:
+  :name: Xenon
+  :symbol: Xe
+  :atomic_num: 54
+  :atomic_amount: 131.293
+55:
+  :name: Cesium
+  :symbol: Cs
+  :atomic_num: 55
+  :atomic_amount: 132.905
+56:
+  :name: Barium
+  :symbol: Ba
+  :atomic_num: 56
+  :atomic_amount: 137.327
+57:
+  :name: Lanthanum
+  :symbol: La
+  :atomic_num: 57
+  :atomic_amount: 138.905
+58:
+  :name: Cerium
+  :symbol: Ce
+  :atomic_num: 58
+  :atomic_amount: 140.116
+59:
+  :name: Praseodymium
+  :symbol: Pr
+  :atomic_num: 59
+  :atomic_amount: 140.908
+60:
+  :name: Neodymium
+  :symbol: Nd
+  :atomic_num: 60
+  :atomic_amount: 144.242
+61:
+  :name: Promethium
+  :symbol: Pm
+  :atomic_num: 61
+  :atomic_amount: 145
+62:
+  :name: Samarium
+  :symbol: Sm
+  :atomic_num: 62
+  :atomic_amount: 150.36
+63:
+  :name: Europium
+  :symbol: Eu
+  :atomic_num: 63
+  :atomic_amount: 151.25
+64:
+  :name: Gadolinium
+  :symbol: Gd
+  :atomic_num: 64
+  :atomic_amount: 157.25
+65:
+  :name: Terbium
+  :symbol: Tb
+  :atomic_num: 65
+  :atomic_amount: 158.925
+66:
+  :name: Dysprosium
+  :symbol: Dy
+  :atomic_num: 65
+  :atomic_amount: 162.500
+67:
+  :name: Holmium
+  :symbol: Ho
+  :atomic_num: 67
+  :atomic_amount: 164.930
+68:
+  :name: Erbium
+  :symbol: Er
+  :atomic_num: 68
+  :atomic_amount: 167.259
+69:
+  :name: Thulium
+  :symbol: Tm
+  :atomic_num: 69
+  :atomic_amount: 168.934
+70:
+  :name: Ytterbium
+  :symbol: Yb
+  :atomic_num: 70
+  :atomic_amount: 173.045
+71:
+  :name: Lutetium
+  :symbol: Lu
+  :atomic_num: 71
+  :atomic_amount: 174.967
+72:
+  :name: Hafnium
+  :symbol: Fh
+  :atomic_num: 72
+  :atomic_amount: 178l49
+73:
+  :name: Tantalum
+  :symbol: Ta
+  :atomic_num: 73
+  :atomic_amount: 180.948
+74:
+  :name: Tungsten
+  :symbol: W
+  :atomic_num: 74
+  :atomic_amount: 183.84
+75:
+  :name: Rhenium
+  :symbol: Re
+  :atomic_num: 75
+  :atomic_amount: 186.207
+76:
+  :name: Osmium
+  :symbol: Os
+  :atomic_num: 76
+  :atomic_amount: 190.23
+77:
+  :name: Iridium
+  :symbol: Ir
+  :atomic_num: 77
+  :atomic_amount: 192.217
+78:
+  :name: Platinum
+  :symbol: Pt
+  :atomic_num: 78
+  :atomic_amount: 195.084
+79:
+  :name: Gold
+  :symbol: Au
+  :atomic_num: 79
+  :atomic_amount: 196.967
+80:
+  :name: Mercury
+  :symbol: Hg
+  :atomic_num: 80
+  :atomic_amount: 200.592
+81:
+  :name: Thallium
+  :symbol: Tl
+  :atomic_num: 81
+  :atomic_amount: 204.384
+82:
+  :name: Lead
+  :symbol: Pb
+  :atomic_num: 82
+  :atomic_amount: 207.2
+83:
+  :name: Bismuth
+  :symbol: Bi
+  :atomic_num: 83
+  :atomic_amount: 208.980
+84:
+  :name: Polonium
+  :symbol: Po
+  :atomic_num: 84
+  :atomic_amount: 210
+85:
+  :name: Astatine
+  :symbol: At
+  :atomic_num: 85
+  :atomic_amount: 210
+86:
+  :name: Radon
+  :symbol: Rn
+  :atomic_num: 86
+  :atomic_amount: 222
+87:
+  :name: Francium
+  :symbol: Fr
+  :atomic_num: 87
+  :atomic_amount: 223
+88:
+  :name: Radium
+  :symbol: Ra
+  :atomic_num: 88
+  :atomic_amount: 226
+89:
+  :name: Actinium
+  :symbol: Ac
+  :atomic_num: 89
+  :atomic_amount: 227
+90:
+  :name: Thorium
+  :symbol: Th
+  :atomic_num: 90
+  :atomic_amount: 232.038
+91:
+  :name: Protactinium
+  :symbol: Pa
+  :atomic_num: 91
+  :atomic_amount: 231.036
+92:
+  :name: Uranium
+  :symbol: U
+  :atomic_num: 92
+  :atomic_amount: 238.029
+93:
+  :name: Neptunium
+  :symbol: Np
+  :atomic_num: 93
+  :atomic_amount: 238
+94:
+  :name: Plutonium
+  :symbol: Pu
+  :atomic_num: 94
+  :atomic_amount: 239
+95:
+  :name: Americium
+  :symbol: Am
+  :atomic_num: 95
+  :atomic_amount: 243
+96:
+  :name: Curium
+  :symbol: Cm
+  :atomic_num: 96
+  :atomic_amount: 247
+97:
+  :name: Berkelium
+  :symbol: Bk
+  :atomic_num: 97
+  :atomic_amount: 247
+98:
+  :name: Califormium
+  :symbol: Cf
+  :atomic_num: 252
+  :atomic_amount: 252
+99:
+  :name: Einsteinium
+  :symbol: Es
+  :atomic_num: 99
+  :atomic_amount: 252
+100:
+  :name: Fermium
+  :symbol: Fm
+  :atomic_num: 100
+  :atomic_amount: 257
+101:
+  :name: Mendelevium
+  :symbol: Md
+  :atomic_num: 101
+  :atomic_amount: 258
+102:
+  :name: Nobelium
+  :symbol: No
+  :atomic_num: 102
+  :atomic_amount: 259
+103:
+  :name: Lawrencium
+  :symbol: Lr
+  :atomic_num: 103
+  :atomic_amount: 262
+104:
+  :name: Rutherfordium
+  :symbol: Rf
+  :atomic_num: 104
+  :atomic_amount: 267
+105:
+  :name: Dubnium
+  :symbol: Db
+  :atomic_num: 105
+  :atomic_amount: 268
+106:
+  :name: Seaborgium
+  :symbol: Sg
+  :atomic_num: 106
+  :atomic_amount: 271
+107:
+  :name: Bohrium
+  :symbol: Bh
+  :atomic_num: 107
+  :atomic_amount: 272
+108:
+  :name: Hassium
+  :symbol: Hs
+  :atomic_num: 108
+  :atomic_amount: 277
+109:
+  :name: Meitnerium
+  :symbol: Mt
+  :atomic_num: 109
+  :atomic_amount: 276
+110:
+  :name: Darmstadtium
+  :symbol: Ds
+  :atomic_num: 110
+  :atomic_amount: 281
+111:
+  :name: Roentgenium
+  :symbol: Rg
+  :atomic_num: 111
+  :atomic_amount: 280
+112:
+  :name: Copernicium
+  :symbol: Cn
+  :atomic_num: 112
+  :atomic_amount: 285
+113:
+  :name: Nihonium
+  :symbol: Nh
+  :atomic_num: 113
+  :atomic_amount: 278
+114:
+  :name: Flerovium
+  :symbol: Fl
+  :atomic_num: 114
+  :atomic_amount: 289
+115:
+  :name: Moscovium
+  :symbol: Mc
+  :atomic_num: 115
+  :atomic_amount: 289
+116:
+  :name: Livermorium
+  :symbol: Lv
+  :atomic_num: 116
+  :atomic_amount: 293
+117:
+  :name: Tennessine
+  :symbol: Ts
+  :atomic_num: 117
+  :atomic_amount: 293
+118:
+  :name: Oganesson
+  :symbol: Og
+  :atomic_num: 118
+  :atomic_amount: 294

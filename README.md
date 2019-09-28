@@ -1,9 +1,5 @@
 # ChemicalElements
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/chemical_elements`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -22,7 +18,36 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Load Library
+```
+require 'chemical_elements'
+```
+
+### Seach by chemical element symbol
+```
+element = ChemicalElements::PeriodicTable.find('H')
+# => #<ChemicalElements::PeriodicTable:0x00007fb2f3059490 @name="Hydrogen", @symbol="H", @atomic_num=1, @atomic_amount=1.00798>
+
+element.name
+# => "Hydrogen"
+
+element.symbol
+# => "H"
+
+element.atomic_num
+# => 1
+
+element.atomic_amount
+# => 1.00798
+```
+
+### Search by chemical element name and symbol, atomic_num, atomic_amount
+```
+ChemicalElements::PeriodicTable.find_by(name: 'Hydrogen')
+ChemicalElements::PeriodicTable.find_by(symbol: 'H')
+ChemicalElements::PeriodicTable.find_by(atomic_num: 1)
+ChemicalElements::PeriodicTable.find_by(atomic_amount: 1.00798)
+```
 
 ## Development
 
