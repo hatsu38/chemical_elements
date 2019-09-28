@@ -1,6 +1,7 @@
 # ChemicalElements
-
-
+[![Gem Version](https://badge.fury.io/rb/chemical_elements.svg)](https://badge.fury.io/rb/chemical_elements)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![CircleCI](https://circleci.com/gh/hatsu38/chemical_elements.svg?style=svg)](https://circleci.com/gh/hatsu38/chemical_elements)
 
 The periodic table included in this gem is created with reference to [this wikipedia](https://en.wikipedia.org/wiki/Periodic_table)
 
