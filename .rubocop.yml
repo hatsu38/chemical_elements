@@ -1,0 +1,12 @@
+Metrics/BlockLength:
+  Exclude:
+    - "spec/**/*.rb"
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+LineLength:
+  Max: 90
+
+Style/Documentation:
+  Enabled: false
