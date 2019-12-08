@@ -9,6 +9,9 @@ The periodic table included in this gem is created with reference to [this wikip
 
 Add this line to your application's Gemfile:
 
+RubyGems Link
+
+https://rubygems.org/gems/chemical_elements
 ```ruby
 gem 'chemical_elements'
 ```
